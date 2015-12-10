@@ -1,6 +1,7 @@
 # cqlsh
 
-### Note: This is a mirror of cqlsh from the official [Cassandra repo](http://git-wip-us.apache.org/repos/asf/cassandra.git).
+### Note:
+### This is a mirror of cqlsh from the official [Cassandra repo](http://git-wip-us.apache.org/repos/asf/cassandra.git) and no longer maintained.  Please visit [@spiside](https://github.com/spiside)'s [fork](https://github.com/spiside/cqlsh) for future updates.
 
 If you would like to contribute to cqlsh, [find out more information here](http://wiki.apache.org/cassandra/HowToContribute).
 
